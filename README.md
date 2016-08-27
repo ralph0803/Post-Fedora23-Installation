@@ -1,5 +1,7 @@
 # ThingsAfterFedora23
 
+RPMFusion
+
 Terminator
 
 Powerline
