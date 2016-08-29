@@ -44,3 +44,5 @@ dnf install peazip)
 shutter
 
 synapse (change the shortcut into ctrl + `)
+
+additional backgrounds on Workstation ($ sudo dnf install f23-backgrounds-extras-gnome)
