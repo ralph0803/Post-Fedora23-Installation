@@ -46,3 +46,7 @@ shutter
 synapse (change the shortcut into ctrl + `)
 
 additional backgrounds on Workstation ($ sudo dnf install f23-backgrounds-extras-gnome)
+
+unetbootin (U盘启动制作工具 http://www.mintos.org/skill/mint-tools.html)
+
+aria2 和 uget (下载工具 http://www.mintos.org/skill/mint-tools.html)
