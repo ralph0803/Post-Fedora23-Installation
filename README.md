@@ -4,7 +4,7 @@ RPMFusion
 
 Terminator
 
-Powerline
+Powerline (https://fedoramagazine.org/add-power-terminal-powerline/ add the lines into both root and user's .bashrc)
 
 Vim
 
@@ -28,10 +28,19 @@ unblock youku
 
 eric6
 
-texmaker
-
 texlive
+
+texmaker
 
 GIMP
 
 Sublime Text 3
+
+Gparted
+
+peazip (dnf config-manager --add-repo http://download.opensuse.org/repositories/home:zhonghuaren/Fedora_23/home:zhonghuaren.repo
+dnf install peazip)
+
+shutter
+
+synapse (change the shortcut into ctrl + `)
