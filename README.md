@@ -22,6 +22,8 @@ vlc
 
 smplayer
 
+multimedia codecs (sudo dnf install gstreamer-plugins-bad gstreamer-plugins-bad-free-extras gstreamer-plugins-bad-nonfree gstreamer-plugins-ugly gstreamer-ffmpeg gstreamer1-libav gstreamer1-plugins-bad-free-extras gstreamer1-plugins-bad-freeworld gstreamer1-plugins-base-tools gstreamer1-plugins-good-extras gstreamer1-plugins-ugly gstreamer1-plugins-bad-free gstreamer1-plugins-good gstreamer1-plugins-base ffmpeg)
+
 chrome
 
 eric6
@@ -35,6 +37,10 @@ GIMP
 Sublime Text 3
 
 Gparted
+
+brasero
+
+clementine
 
 peazip (dnf config-manager --add-repo http://download.opensuse.org/repositories/home:zhonghuaren/Fedora_23/home:zhonghuaren.repo
 dnf install peazip)
