@@ -2,6 +2,10 @@
 
 RPMFusion
 
+docky
+
+tweak-tool
+
 Terminator
 
 Powerline (https://fedoramagazine.org/add-power-terminal-powerline/ add the lines into both root and user's .bashrc)
@@ -19,12 +23,6 @@ vlc
 smplayer
 
 chrome
-
-docky
-
-tweak-tool
-
-unblock youku
 
 eric6
 
@@ -47,6 +45,6 @@ synapse (change the shortcut into ctrl + `)
 
 additional backgrounds on Workstation ($ sudo dnf install f23-backgrounds-extras-gnome)
 
-unetbootin (U盘启动制作工具 http://www.mintos.org/skill/mint-tools.html)
-
 aria2 和 uget (下载工具 http://www.mintos.org/skill/mint-tools.html)
+
+unblock youku + flashgot
