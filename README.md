@@ -34,7 +34,7 @@ texmaker
 
 GIMP
 
-Sublime Text 3
+Sublime Text 3 (https://linuxgx.blogspot.com/2015/11/instalar-sublimetext-3-en-fedora-23.html)
 
 Gparted
 
