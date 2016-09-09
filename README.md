@@ -30,6 +30,8 @@ chrome
 
 opera & vivaldi
 
+lm_sensors curl hddtemp conky (http://www.tecmint.com/install-conky-in-ubuntu-debian-fedora/)
+
 eric6
 
 texlive
