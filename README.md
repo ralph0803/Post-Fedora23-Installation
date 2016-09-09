@@ -53,4 +53,6 @@ additional backgrounds on Workstation ($ sudo dnf install f23-backgrounds-extras
 
 aria2 和 uget (下载工具 http://www.mintos.org/skill/mint-tools.html)
 
+unrar 和 comix
+
 unblock youku + flashgot
