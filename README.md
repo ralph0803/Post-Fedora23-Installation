@@ -28,6 +28,8 @@ multimedia codecs (sudo dnf install gstreamer-plugins-bad gstreamer-plugins-bad-
 
 chrome
 
+opera & vivaldi
+
 eric6
 
 texlive
