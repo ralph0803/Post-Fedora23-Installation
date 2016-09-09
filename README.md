@@ -18,6 +18,8 @@ GoldenDict (Dictionary: Oxford_Advanced_Learner_English-Chinese_Dictionary-4th, 
 
 xrx7855-IMPORTANT.ppd
 
+HL-L2380DW: 1. LPR Driver & 2. Cups Driver (http://support.brother.com/g/b/downloadtop.aspx?c=us&lang=en&prod=hll2380dw_us_as)
+
 vlc
 
 smplayer
