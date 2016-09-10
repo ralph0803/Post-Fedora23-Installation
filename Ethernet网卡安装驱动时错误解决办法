@@ -1,0 +1,22 @@
+Ethernet网卡安装驱动时错误解决办法
+
+在inf中找不到所需的行（INF file not found）
+
+下载最新的网卡驱动包，但要手动定位inf的位置，然后卸载网卡，再重新安装。以下是一个有用的帖子
+
+I found this in an older forum posts:
+
+desolationw 03-23-2007 at 12:33:10 PM Show message 
+- 
+0 
++ .I had to update my x1950Pro drivers in Vista by 
+
+Running ATI setup and cancelling after it has extracted all files then: 
+
+'Update Driver> 
+No, not this time> 
+Install from list> 
+Don't search, i will choose> 
+Have Disk. . .then browsing to the ATI folder on the C: you have just extracted and choosing the .inf file
+
+Try it and if it works, thank desolationw.
