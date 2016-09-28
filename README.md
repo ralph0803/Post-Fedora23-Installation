@@ -34,7 +34,7 @@ lm_sensors curl hddtemp conky (http://www.tecmint.com/install-conky-in-ubuntu-de
 
 eric6
 
-texlive texlive-preprint(里面有fullpage.sty)
+texlive-scheme-full texlive-preprint(里面有fullpage.sty)
 
 texmaker
 
