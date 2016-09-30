@@ -16,7 +16,7 @@ GVim
 
 GoldenDict (Dictionary: Oxford_Advanced_Learner_English-Chinese_Dictionary-4th, En-En-MWCollegiate11.dsl.dz.files, 构词法_en_US_1.0)
 
-xrx7855-IMPORTANT.ppd
+xrx7855-IMPORTANT.ppd (http://www.cornellcollege.edu/information-technology/get-connected/printing-2016/eprint-driver-install.shtml)
 
 HL-L2380DW: 1. LPR Driver & 2. Cups Driver (http://support.brother.com/g/b/downloadtop.aspx?c=us&lang=en&prod=hll2380dw_us_as)
 
